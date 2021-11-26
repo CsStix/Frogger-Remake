@@ -145,6 +145,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 3614212343069427842}
-  minSpeed: 10
-  maxSpeed: 15
+  minSpeed: 5
+  maxSpeed: 10
   speed: 1
