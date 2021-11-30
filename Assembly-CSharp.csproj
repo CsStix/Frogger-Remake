@@ -53,10 +53,13 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\FrogMove.cs" />
+    <Compile Include="Assets\MainMenu1.cs" />
+    <Compile Include="Assets\Script\Finish.cs" />
     <Compile Include="Assets\Script\Car.cs" />
     <Compile Include="Assets\Script\Spawner.cs" />
-    <Compile Include="Assets\Script\Finish.cs" />
+    <Compile Include="Assets\Script\FrogMove.cs" />
+    <Compile Include="Assets\Script\playbutton.cs" />
+    <Compile Include="Assets\Script\PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

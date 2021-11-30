@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637734807109552952
-    m_Hash: 1428533792
+      ticks: 637734846625493536
+    m_Hash: 3959567885
   m_LockFileStatus:
     m_FilePath: C:/Users/csmith13/Documents/Github/Frogger-Remake/Frogger/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637734807109946933
-    m_Hash: 4082109579
+      ticks: 637734846625503511
+    m_Hash: 276291409
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
